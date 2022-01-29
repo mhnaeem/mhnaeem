@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-<!--
-**mhnaeem/mhnaeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I am Muhammad Hammad, a **Full Stack Software Developer** currently based in Canada. I have a passion for learning new technologies and improve my knowledge on all things cloud. I enjoy building well-architected, highly available large scale cloud applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Interesting Things
+
+-   ☁️ I am AWS Certified Cloud Practitioner
+-   📝 I wrote an open source package for Soy files - [SoyServe](https://github.com/mhnaeem/SoyServe)
+-   🎓 I hold a BSc in Compute Science & Business from Memorial University of Newfoundland and Labrador
+
+## 🏅 Badges
+<a href="https://www.credly.com/badges/efc68a6d-0a40-41c8-9f00-b391926567e2/public_url"><img alt="AWS Certified Cloud Practitioner" src="aws-certified-cloud-practitioner.png" width="200"/></a>
+
+## 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/mhnaeem99/)
+- [Website](https://www.cs.mun.ca/~mhnaeem/)
