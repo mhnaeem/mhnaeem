@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am Muhammad Hammad, a **Full Stack Software Developer** currently based in Canada. I have a passion for learning new technologies and improve my knowledge on all things cloud. I enjoy building well-architected, highly available large scale cloud applications.
+I am Muhammad Hammad, a **Full Stack Software Developer** based out of Canada. I have a passion for learning new technologies and expanding my knowledge on all things cloud. Currently I enjoy building well-architected, highly available large scale cloud applications.
 
 ## 💡 Interesting Things
 
