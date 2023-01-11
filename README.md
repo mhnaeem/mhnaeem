@@ -14,8 +14,8 @@ I am Muhammad Hammad, a **Full Stack Software Developer** based out of Canada. I
 **Note:** If you have any open source projects in mind that I can help with then please feel free to contact me
 
 ## 🏅 Badges
-<a href="https://www.credly.com/badges/2baf72bd-611b-4a59-b32f-e689b7d38059/public_url"><img alt="AWS Certified Cloud Practitioner" src="aws-certified-cloud-practitioner.png" width="200"/></a>
-<a href="https://www.credly.com/badges/efc68a6d-0a40-41c8-9f00-b391926567e2/public_url"><img alt="AWS Certified Solutions Architect – Associate" src="aws-certified-solutions-architect-associate.png" width="200"/></a>
+<a href="https://www.credly.com/badges/efc68a6d-0a40-41c8-9f00-b391926567e2/public_url"><img alt="AWS Certified Cloud Practitioner" src="aws-certified-cloud-practitioner.png" width="200"/></a>
+<a href="https://www.credly.com/badges/2baf72bd-611b-4a59-b32f-e689b7d38059/public_url"><img alt="AWS Certified Solutions Architect – Associate" src="aws-certified-solutions-architect-associate.png" width="200"/></a>
 
 ## 🔗 Links
 
