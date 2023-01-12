@@ -9,7 +9,7 @@ I am Muhammad Hammad, a **Full Stack Software Developer** based out of Canada. I
 -   ☁️ I am AWS Certified Solutions Architect – Associate
 -   ☁️ I am AWS Certified Cloud Practitioner
 -   📝 I wrote an open source package for Soy files - [SoyServe](https://github.com/mhnaeem/SoyServe)
--   🎓 I hold a BSc in Compute Science & Business from Memorial University of Newfoundland and Labrador
+-   🎓 I hold a BSc in Computer Science & Business from Memorial University of Newfoundland and Labrador
 
 **Note:** If you have any open source projects in mind that I can help with then please feel free to contact me
 
